@@ -1,0 +1,35 @@
+{
+    "productos": [
+      {
+        "nombre": "Pc1",
+        "descripcion": "Torre de PC con excelente ventilación y diseño minimalista.",
+        "categoria": "Torres de PC",
+        "precio": 89.99
+      },
+      {
+        "nombre": "Pc2",
+        "descripcion": "Caja de PC ATX con un diseño elegante y panel de vidrio templado.",
+        "categoria": "Torres de PC",
+        "precio": 79.99
+      },
+      {
+        "nombre": "Pc3",
+        "descripcion": "Torre de PC con un diseño de malla para máxima circulación de aire.",
+        "categoria": "Torres de PC",
+        "precio": 89.99
+      },
+      {
+        "nombre": "Pc4",
+        "descripcion": "Torre compacta y modular, ideal para construcciones de PC pequeñas.",
+        "categoria": "Torres de PC",
+        "precio": 59.99
+      },
+      {
+        "nombre": "Pc5",
+        "descripcion": "Torre de PC con excelente rendimiento térmico y estética moderna.",
+        "categoria": "Torres de PC",
+        "precio": 79.99
+      }
+    ]
+  }
+  
