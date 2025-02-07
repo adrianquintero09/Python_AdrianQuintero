@@ -54,6 +54,12 @@ while(booleanito==True):
             print(productos['productos'][4])
     if opt==3:
         for i in range(len(productos["productos"])):
+            print(productos["productos"][0]["nombre"])
+            print(productos["productos"][1]["nombre"])
+            print(productos["productos"][2]["nombre"])
+            print(productos["productos"][3]["nombre"])
+            print(productos["productos"][4]["nombre"])
+            seleccion = int(input("Que pc deseas actualizar: "))
             print()
 
             
