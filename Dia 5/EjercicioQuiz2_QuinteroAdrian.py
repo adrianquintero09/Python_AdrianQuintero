@@ -59,7 +59,8 @@ while(booleanito==True):
             print(productos["productos"][2]["nombre"])
             print(productos["productos"][3]["nombre"])
             print(productos["productos"][4]["nombre"])
-            seleccion = int(input("Que pc deseas actualizar: "))
-            print()
+            break
+        seleccion=int(input("Que Pc deseas actualizar?: "))
+
 
             
